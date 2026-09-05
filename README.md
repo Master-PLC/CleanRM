@@ -1,5 +1,5 @@
-# UARM
-Official implementation of "Uncertainty-Aware Reward Modeling for Stable RLHF"
+# CAN-RM
+Official implementation of "Clean-Anchor Noise-corrected Reward Modeling with Optimal Transport"
 
 ## Requirements
 
@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-You can run the following command to train the UARM model.
+You can run the following command to train the CAN-RM model.
 
 ### Stage 1: Download preference data
 

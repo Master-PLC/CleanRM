@@ -1,5 +1,5 @@
-# CAN-RM
-Official implementation of "Clean-Anchor Noise-corrected Reward Modeling with Optimal Transport"
+# CleanRM
+Official implementation of "Reward Modeling from Noisy Feedback with a Few Clean Feedback for RLHF"
 
 ## Requirements
 
